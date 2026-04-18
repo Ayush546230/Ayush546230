@@ -12,7 +12,7 @@
 ### 🧠 About Me
 
 ```yaml
-name: Ayush Srivastava
+name: Ayush 
 location: Manipal, Karnataka, India 🇮🇳
 education:
   - MCA @ MIT Manipal (CGPA: 9.00)
