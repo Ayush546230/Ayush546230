@@ -1,9 +1,4 @@
-<div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Ayush%20Srivastava&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Integrations%20%7C%20MCA%20@%20MIT%20Manipal&descAlignY=58&descColor=00d4ff&animation=fadeIn" />
-
-</div>
 
 ---
 
